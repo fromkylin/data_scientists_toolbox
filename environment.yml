@@ -1,0 +1,7 @@
+name: data_scientists_toolbox
+channels:
+  - anaconda_depends
+dependencies:
+  - python=3.12
+  - pandas=2.2
+  - matplotlib=3.8
